@@ -46,5 +46,5 @@ Los módulos que contiene son los siguientes:
 * Base de datos: [MySQL 5.7](http://www.php.net/)
 
 ## Cómo instalar la intranet en mi centro educativo
-Envíe un correo electrónico a la dirección contacto+intranet@offensivesentinel.com para solicitar la instalación.
+Envíe un correo electrónico a la dirección contacto@offensivesentinel.com para solicitar la instalación.
 
